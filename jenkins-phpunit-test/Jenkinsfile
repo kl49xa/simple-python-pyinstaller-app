@@ -17,5 +17,4 @@ pipeline {
                junit testResults: 'logs/unitreport.xml'
            }
        }
-   
 }
